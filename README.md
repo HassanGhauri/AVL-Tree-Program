@@ -1,2 +1,2 @@
-# Code for Binary Heap
-This a program for Binary Heap.
+# Code for Avl Tree
+This a program for avl tree.
